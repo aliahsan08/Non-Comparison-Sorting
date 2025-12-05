@@ -19,7 +19,7 @@ The project also includes multiple experimental cases to evaluate the performanc
 
 ## Project Structure:
 
-/NonComparisonSorting
+/Non-Comparison-Sorting
 
 * algorithms.cpp
 * README.md
